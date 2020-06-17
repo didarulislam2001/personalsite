@@ -1,0 +1,13 @@
+body{
+  background-color: #f0f0f0;
+}
+h3{
+  color: #204051;
+}
+hr {
+border-style: none;
+border-top: dashed;
+border-color: grey;
+border-width: 2px;
+ width: 10%;
+}
